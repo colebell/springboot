@@ -1,0 +1,4 @@
+com\techtalentsouth\techtalentblog\blogposts\BlogPost.class
+com\techtalentsouth\techtalentblog\blogposts\BlogPostController.class
+com\techtalentsouth\techtalentblog\blogposts\BlogPostRepository.class
+com\techtalentsouth\techtalentblog\TechtalentblogApplication.class
